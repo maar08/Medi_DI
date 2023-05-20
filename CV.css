@@ -1,0 +1,15 @@
+.left-logo,
+#email-logo,
+#skills-logo,
+#language-logo,
+.right-logo {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+    margin-top: 5px;
+}
+
+.card {
+    border-top: 1px solid gray;
+    margin-top: 5px;
+}
